@@ -1,0 +1,11 @@
+Accomplishments:
+  Places for logging commented within. 
+  Development of login user verification.
+Plan:
+  To Discuss:
+    The role of frontend and backend. i.e. which will be parsing and generating subtitle files.
+    Structure of core database: projects and progress
+  To Learn:
+    Life cycle of a Servlet
+TODO:
+  Find and use a logger.
