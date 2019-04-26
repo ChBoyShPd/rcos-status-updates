@@ -1,6 +1,6 @@
 ## Accomplishments:
 ### Learned
->
+> Not significant
 
 ### Developed
 >SSA generator almost done.
@@ -18,4 +18,4 @@
 > 
 
 ## Meeting Minutes:
-> slz and 777 looking to assist in development.
+> slz and 777 looking to assist in development, will probably be joining in the summer.
