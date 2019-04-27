@@ -1,6 +1,6 @@
 ## Accomplishments:
 ### Learned
-> Not significant
+> --
 
 ### Developed
 >SSA generator almost done.
