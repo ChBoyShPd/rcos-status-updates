@@ -1,24 +1,16 @@
-## Last Week's Accomplishments
+## Accomplishments:
+### Learned
+> Picked up Java
 
-> In this section, you can write about what you accomplished in the previous week.
+### Developed
+> Finalized 1st version of proposal.
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+## Plan for next week:
+> Set up the development environment and deployable server
 
-## This Week's Plan
+### I will learn:
+> Java Servlet, Linux server, deployment of MySQL, etc.
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
-
-## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+## Meeting Minutes:
+> A $10 per month server and a $15 per year domain name should be enough for development and testing.
+> I wil start with the back-end development.
