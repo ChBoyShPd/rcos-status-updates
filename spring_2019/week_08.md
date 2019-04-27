@@ -1,6 +1,6 @@
 ## Accomplishments:
 ### Learned
-> --
+> The formats of subtitle files.
 ### Developed
 >Basic srt parser
 
