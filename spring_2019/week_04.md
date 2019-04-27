@@ -3,7 +3,7 @@
 >--
 
 ### Developed
-> Pre-allocated and makrked code space for logging.
+> Pre-allocated and marked code space for logging.
 
 > Development of user-login verification: salted hashing.
 
